@@ -1,0 +1,7 @@
+﻿     Creating library C:\Users\Administrator\Desktop\rbxfpsunlocker-3.0\Release\rbxfpsunlocker.lib and object C:\Users\Administrator\Desktop\rbxfpsunlocker-3.0\Release\rbxfpsunlocker.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Administrator\Desktop\rbxfpsunlocker-3.0\injector\main.cpp(331): warning C4715: 'WinMain': not all control paths return a value
+  All 4945 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  injector.vcxproj -> C:\Users\Administrator\Desktop\rbxfpsunlocker-3.0\Release\rbxfpsunlocker.exe
